@@ -8,4 +8,4 @@ For Milestone 1: The five notebooks are for
 4.) Comparison of different summary methods
 5.) Topic Modelling
 
-WIP: Continuation of cleaning data, adding possible Bert, XLNet models
+WIP: Continuation of cleaning data, adding possible Bert, XLNet models. Cleaning imports on Notebook 5 so that it links to the other notebooks / datasets.
